@@ -1,0 +1,77 @@
+*{
+	margin:0;
+	padding:0;
+}
+.wrapper{
+	overflow: hidden;
+}
+.logo{
+	background-color: aqua;
+	min-height: 60px;
+	width: 40%;
+	float: left;
+}
+.navigation{
+	background-color: aqua;
+	min-height: 60px;
+	width: 60%;
+	float: right;
+}
+.wrapper2{
+	overflow: hidden;
+}
+.box1,.box2,.box3,.box4{
+	background-color: aqua;
+	min-height:150px;
+	margin:20px;
+	width:22%;
+	float: left;
+}
+.wrapper3{
+	overflow:hidden;
+}
+.a1,.a2,.a3,.a4{
+	background-color: aqua;
+	min-height:150px;
+	margin:20px;
+	width:22%;
+	float: left;
+}
+.wrapper4{
+	overflow: hidden;
+}
+.b1,.b2,.b3,.b4{
+	background-color: aqua;
+	min-height:150px;
+	margin:20px;
+	width:22%;
+	float: left;
+}
+.wrapper5{
+	overflow: hidden;
+}
+.c1,.c2,.c3,.c4{
+	background-color: aqua;
+	min-height:150px;
+	margin:20px;
+	width:22%;
+	float: left;
+}
+.wrapper6{
+	overflow: hidden;
+}
+.x1,.x2,.x3{
+	background-color: aqua;
+	min-height: 200px;
+	margin:20px;
+	width: 30%;
+	float: left;
+}
+.footer{
+	background-color: aqua;
+	min-height: 100px;
+}
+p{
+	font-size: 60px;
+	text-align: center;
+}
